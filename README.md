@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 0xDiSk</h1>
 <h3 align="center">A passionate frontend/backend developer from /dev/</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdisk&label=Profile%20views&color=0e75b6&style=flat" alt="0xdisk" /> [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xdisk&label=Profile%20views&color=0e75b6&style=flat" alt="0xdisk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdisk" alt="0xdisk" /></a> </p>
 
